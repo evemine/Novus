@@ -1,0 +1,174 @@
+
+@import url('https://fonts.cdnfonts.com/css/neo-sans-std');
+
+        body {
+            background: linear-gradient(135deg, #91cbff 0%, #003cf2 100%);
+            padding: 20px;
+            min-height: 100vh;
+            
+        }
+ 
+
+         header {
+            font-family: 'Neo Sans Std';
+            background: linear-gradient(135deg, #00177e 0%, #060074 100%);
+            color: rgb(255, 255, 255);
+            padding: 25px;
+            text-align: center;
+            margin-bottom: 5%;
+            border-radius: 8px;
+            font-size: 25px;
+    
+        }
+
+       
+        header p {
+            font-family: 'Neo Sans Std';
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+}
+
+        .formulario-1 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 450px;
+           height: auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+           margin-bottom: 20px;
+
+        }
+
+        .formulario-2 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 450px;
+           height: auto;
+           margin: 0 auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+
+        }
+
+        .formulario-3 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 500px;
+           height: auto;
+           margin: 0 auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+
+        }
+
+
+        .formulario-4 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 500px;
+           height: auto;
+           margin: 0 auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+
+        }
+
+
+        .formulario-5 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 500px;
+           height: auto;
+           margin: 0 auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+
+        }
+
+
+        .formulario-6 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 500px;
+           height: auto;
+           margin: 0 auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+
+        }
+
+         .formulario-7 {
+           box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+           padding: 20px;
+           background-color: #c5e6f7;
+           width: 500px;
+           height: auto;
+           margin: 0 auto;
+           border-radius: 8px;
+           flex-direction: column;
+           text-align: center;
+
+        }
+
+
+        h2{
+            font-family: 'Neo Sans Std';
+            font-size: 35px;
+            color: #060074;
+            text-align: center;
+            margin-bottom: 40px;
+            margin-top: -15;
+        }
+
+        .input-wrapper {
+            width: 400px;
+            margin-bottom: 10px;
+            display: flex;
+            justify-content: center; /* Centrado horizontal */
+            align-items: center;
+        }
+
+        input {
+            color: #1a1f34;
+            padding: 20px 15px 20px 15px;
+            width: 50%;
+            border-radius: 25px;
+            border: 0;
+            box-shadow: 0 0 20px hsl(243, 58%, 24%);
+            outline: none;
+            margin-bottom: 20px;
+        }
+
+        h3{
+            font-family: 'Neo Sans Std';
+            font-size: 15px;
+            color: #060074;
+            text-align: center;
+        }
+
+        .formulario-6-consulta {
+             max-width: 1200px;
+             width: 100%;
+             margin: 0 auto;
+             background: #c5e6f7;
+             border-radius: 10px;
+             padding: 20px;
+             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
